@@ -11,4 +11,4 @@ var findMedianSortedArrays = function(nums1, nums2) {
 };
 // console.log(findMedianSortedArrays([1],[2,3,4,5,6,7,8,9,10]))
 // console.log(findMedianSortedArrays([1],[2,5]))
-console.log(parseInt(1.8))
+console.log(parseInt(3/2))
